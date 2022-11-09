@@ -1,16 +1,26 @@
-### Hi there 👋
+## ¡Hola Mundo! 👋 I'm Carolina Fuenzalida (Lynn)💟
 
-<!--
-**CarolinaFuenzalida/CarolinaFuenzalida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"><strong>
+I'm a curious woman, always willing to study in order to satisfy my learning needs 📖🌱.
 
-Here are some ideas to get you started:
+I think I found my home in Tech as it is a world with enormous possibilities and there is always something new to see and learn 🖥🧠. </strong></h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```javascript
+const Carolina = {
+  pronous: "she" | "her";
+  education: ["Tourism-DuocUc","FrontEnd Dev-Laboratoria"],
+  languages: ["Spanish", "English"],
+  otherAlias: ["Lynn", "FrontEnd Dev Jr"],
+  codesIn: ["Javascript", "HTML5", "CSS" , "React"],
+  toolsUsed: ["Firebase", "Figma" ,"NodeJS", "Git", "Github"],
+  interests : ["Play videogames", "Reading Fanfics", "Anime", "Comedy Shows"],
+ 
+availableForHire: true
+};
+```
+
+<h3>You can find me here</h3>
+<a target="_blank" href="https://www.linkedin.com/in/carolina-fuenzalida-poblete-67542115b/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&labelColor=blue" alt="Linkedin Badge">
+</a>
