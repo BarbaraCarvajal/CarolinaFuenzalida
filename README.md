@@ -1,9 +1,6 @@
 ## ¡Hola Mundo! 👋 I'm Carolina Fuenzalida (Lynn)💟
 
-<h2 align="center"><strong>
-I'm a curious woman, always willing to study in order to satisfy my learning needs 📖🌱.
 
-I think I found my home in Tech as it is a world with enormous possibilities and there is always something new to see and learn 🖥🧠. </strong></h2>
 
 
 ```javascript
